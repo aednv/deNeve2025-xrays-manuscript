@@ -1,0 +1,4 @@
+detectron2: 0.6
+Train JSON exists? False
+['grass_carpel_ml_quantification_final']
+['training_stratifiedKfold1']

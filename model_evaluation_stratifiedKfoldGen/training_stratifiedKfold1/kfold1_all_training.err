@@ -1,0 +1,5 @@
+Removing conda
+Traceback (most recent call last):
+  File "train_model.py", line 31, in <module>
+    print(os.listdir("/work/pi_mbartlett_umass_edu/AmberDeNeve/grass_carpel_ml_quantification_final/stratifiedKfoldGen/annotations/fold_1"))
+FileNotFoundError: [Errno 2] No such file or directory: '/work/pi_mbartlett_umass_edu/AmberDeNeve/grass_carpel_ml_quantification_final/stratifiedKfoldGen/annotations/fold_1'
