@@ -1,0 +1,133 @@
+row_num,plant_id,genotype,treatment,planting,tbn_no_culm,individual_tiller_len_cm,tillers_all_added_cm,height_cm_if_tillers
+153,153-1,gt1B73,defoliated,early,3,0,0,0
+153,153-2,gt1B73,no_treatment,early,4,"28, 22",50,128
+153,153-3,gt1B73,defoliated,early,3,0,0,0
+153,153-4,gt1B73,no_treatment,early,3,0,0,0
+153,153-5,gt1B73,defoliated,early,3,0,0,0
+153,153-6,gt1B73,no_treatment,early,5,"12, 33",45,167
+153,153-7,gt1B73,defoliated,early,2,0,0,0
+153,153-8,gt1B73,no_treatment,early,3,"13, 13",26,150
+154,154-1,gt1ra3B73,defoliated,early,3,0,0,0
+154,154-2,gt1ra3B73,no_treatment,early,3,"91, 29, 25",145,166
+154,154-3,gt1ra3B73,defoliated,early,4,0,0,0
+154,154-4,gt1ra3B73,no_treatment,early,8,"87, 70, 30, 15",202,160
+154,154-5,gt1ra3B73,defoliated,early,5,45,45,136
+154,154-6,gt1ra3B73,no_treatment,early,6,"69, 60, 40",169,155
+154,154-7,gt1ra3B73,defoliated,early,,0,0,0
+154,154-8,gt1ra3B73,no_treatment,early,6,"45, 25, 39",109,163
+154,154-9,gt1ra3B73,defoliated,early,4,0,0,0
+154,154-10,gt1ra3B73,no_treatment,early,7,"60, 60, 75",195,155
+155,155-1,B73,defoliated,early,3,0,0,0
+155,155-2,B73,no_treatment,early,4,0,0,0
+155,155-3,B73,defoliated,early,2,0,0,0
+155,155-4,B73,no_treatment,early,5,0,0,0
+155,155-5,B73,defoliated,early,3,0,0,0
+155,155-6,B73,no_treatment,early,4,0,0,0
+155,155-7,B73,defoliated,early,2,0,0,0
+155,155-8,B73,no_treatment,early,3,0,0,0
+155,155-9,B73,defoliated,early,,0,0,0
+156,156-1,ra3B73,defoliated,early,4,0,0,0
+156,156-2,ra3B73,no_treatment,early,6,0,0,0
+156,156-3,ra3B73,defoliated,early,3,0,0,0
+156,156-4,ra3B73,no_treatment,early,8,0,0,0
+156,156-5,ra3B73,defoliated,early,4,0,0,0
+156,156-6,ra3B73,no_treatment,early,,0,0,0
+156,156-7,ra3B73,defoliated,early,4,0,0,0
+156,156-8,ra3B73,no_treatment,early,7,0,0,0
+157,157-1,gtB73,defoliated,early,5,0,0,0
+157,157-2,gtB73,no_treatment,early,3,20,20,160
+157,157-3,gtB73,defoliated,early,4,5,5,106
+157,157-4,gtB73,no_treatment,early,5,0,0,0
+157,157-5,gtB73,defoliated,early,3,0,0,0
+157,157-6,gtB73,no_treatment,early,4,"10, 10, 10",30,161
+157,157-7,gtB73,defoliated,early,3,7,7,128
+157,157-8,gtB73,no_treatment,early,4,50,50,153
+158,158-1,gt1ra3B73,defoliated,early,6,"73, 70, 30",173,160
+158,158-2,gt1ra3B73,no_treatment,early,8,"32, 49, 53",134,174
+158,158-3,gt1ra3B73,defoliated,early,3,0,0,0
+158,158-4,gt1ra3B73,no_treatment,early,6,"74, 72",146,163
+158,158-5,gt1ra3B73,defoliated,early,3,12,12,139
+158,158-6,gt1ra3B73,no_treatment,early,6,"51, 53, 32, 67",203,153
+158,158-7,gt1ra3B73,defoliated,early,4,12,12,138
+158,158-8,gt1ra3B73,no_treatment,early,8,"56, 90, 20, 57, 30",253,156
+158,158-9,gt1ra3B73,defoliated,early,3,0,0,0
+158,158-10,gt1ra3B73,no_treatment,early,5,"98, 38, 28, 79",243,164
+159,159-1,B73,defoliated,early,4,0,0,0
+159,159-2,B73,no_treatment,early,3,0,0,0
+159,159-3,B73,defoliated,early,3,0,0,0
+159,159-4,B73,no_treatment,early,6,0,0,0
+159,159-5,B73,defoliated,early,4,0,0,0
+159,159-6,B73,no_treatment,early,5,0,0,0
+159,159-7,B73,defoliated,early,4,0,0,0
+159,159-8,B73,no_treatment,early,3,0,0,0
+159,159-9,B73,defoliated,early,4,0,0,0
+160,160-1,ra3B73,defoliated,early,5,0,0,0
+160,160-2,ra3B73,no_treatment,early,5,0,0,0
+160,160-3,ra3B73,defoliated,early,3,0,0,0
+160,160-4,ra3B73,no_treatment,early,6,0,0,0
+160,160-5,ra3B73,defoliated,early,3,0,0,0
+160,160-6,ra3B73,no_treatment,early,8,0,0,0
+402,402-1,B73,defoliated,late,3,0,0,0
+402,402-2,B73,no_treatment,late,4,0,0,0
+402,402-3,B73,defoliated,late,2,0,0,0
+402,402-4,B73,no_treatment,late,2,0,0,0
+402,402-5,B73,defoliated,late,3,0,0,0
+402,402-6,B73,no_treatment,late,3,0,0,0
+402,402-7,B73,defoliated,late,3,0,0,0
+402,402-8,B73,no_treatment,late,4,0,0,0
+403,403-1,ra3B73,defoliated,late,3,0,0,0
+403,403-2,ra3B73,no_treatment,late,7,0,0,0
+403,403-3,ra3B73,defoliated,late,4,0,0,0
+404,404-1,gt1B73,defoliated,late,5,43,43,136
+404,404-2,gt1B73,no_treatment,late,4,46,46,160
+404,404-3,gt1B73,defoliated,late,1,0,0,0
+404,404-4,gt1B73,no_treatment,late,3,56,56,159
+404,404-5,gt1B73,defoliated,late,3,30,30,
+404,404-6,gt1B73,no_treatment,late,,0,0,0
+404,404-7,gt1B73,defoliated,late,3,0,0,0
+404,404-8,gt1B73,no_treatment,late,6,0,0,0
+404,404-9,gt1B73,defoliated,late,2,45,45,143
+405,405-1,gt1ra3B73,defoliated,late,,50,50,150
+405,405-2,gt1ra3B73,no_treatment,late,6,"105, 23",128,153
+405,405-3,gt1ra3B73,defoliated,late,3,"90, 60",150,130
+405,405-4,gt1ra3B73,no_treatment,late,6,"95, 100, 20",215,158
+405,405-5,gt1ra3B73,defoliated,late,3,40,40,114
+405,405-6,gt1ra3B73,no_treatment,late,7,"73, 23, 110",206,168
+405,405-7,gt1ra3B73,defoliated,late,4,0,0,0
+405,405-8,gt1ra3B73,no_treatment,late,4,"34, 44",78,162
+405,405-9,gt1ra3B73,defoliated,late,4,"120, 80",200,136
+406,406-1,B73,defoliated,late,3,0,0,0
+406,406-2,B73,no_treatment,late,3,0,0,0
+406,406-3,B73,defoliated,late,2,0,0,0
+406,406-4,B73,no_treatment,late,3,0,0,0
+406,406-5,B73,defoliated,late,2,0,0,0
+406,406-6,B73,no_treatment,late,4,0,0,0
+406,406-7,B73,defoliated,late,2,0,0,0
+406,406-8,B73,no_treatment,late,3,0,0,0
+406,406-9,B73,defoliated,late,3,0,0,0
+406,406-10,B73,no_treatment,late,5,0,0,0
+407,407-1,ra3B73,defoliated,late,4,0,0,0
+407,407-2,ra3B73,no_treatment,late,6,0,0,0
+407,407-3,ra3B73,defoliated,late,2,0,0,0
+407,407-4,ra3B73,no_treatment,late,8,0,0,0
+407,407-5,ra3B73,defoliated,late,4,0,0,0
+408,408-1,gt1B73,defoliated,late,5,104,104,145
+408,408-2,gt1B73,defoliated,late,3,64,64,117
+408,408-3,gt1B73,no_treatment,late,3,"77, 43, 39",159,168
+408,408-4,gt1B73,no_treatment,late,3,54,54,163
+408,408-5,gt1B73,defoliated,late,3,"56, 30",86,102
+408,408-6,gt1B73,no_treatment,late,4,60,60,159
+408,408-7,gt1B73,defoliated,late,2,63,63,123
+408,408-8,gt1B73,no_treatment,late,3,"107, 50, 73",230,168
+408,408-9,gt1B73,defoliated,late,3,65,65,140
+408,408-10,gt1B73,no_treatment,late,3,140,140,139
+409,409-1,gt1ra3B73,defoliated,late,,"99, 58",157,158
+409,409-2,gt1ra3B73,no_treatment,late,6,"74, 46",120,160
+409,409-3,gt1ra3B73,defoliated,late,4,"61, 77",138,150
+409,409-4,gt1ra3B73,no_treatment,late,5,56,56,165
+409,409-5,gt1ra3B73,defoliated,late,5,43,43,123
+409,409-6,gt1ra3B73,no_treatment,late,7,62,62,168
+409,409-7,gt1ra3B73,defoliated,late,4,"61, 49",110,125
+409,409-8,gt1ra3B73,no_treatment,late,7,107,107,160
+409,409-9,gt1ra3B73,defoliated,late,6,"72, 56",128,143
+409,409-10,gt1ra3B73,no_treatment,late,5,"93, 50",143,176
